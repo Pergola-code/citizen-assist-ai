@@ -1,0 +1,19 @@
+data;origem;pergunta;id_orientacao;encontrou;ajudou;tentativas;tempo_s
+2026-11-18 00:14:48;pergunta;como vejo minha carteira de trabalho no celular?;5;sim;sim;1;22.6
+2026-11-18 00:15:11;pergunta;tenho 17 anos, posso tirar titulo de eleitor?;3;sim;sim;1;22.9
+2026-11-18 00:15:29;pergunta;quantas horas por dia o estagiario pode trabalhar;7;sim;sim;1;18.4
+2026-11-18 00:15:41;pergunta;como pedir seguro desemprego;;nao;nao;1;11.9
+2026-11-18 00:16:14;pergunta;como pagar meia entrada no cinema sem ser estudante;10;sim;sim;1;26.7
+2026-11-18 00:16:42;pergunta;alistamento militar;4;sim;sim;2;28.4
+2026-11-18 00:17:08;pergunta;perdi meu rg como tiro o novo;2;sim;sim;1;25.8
+2026-11-18 00:17:29;pergunta;quanto custa a segunda via da identidade;2;sim;sim;1;20.8
+2026-11-18 00:18:23;pergunta;nao consigo entrar na conta gov;11;sim;sim;2;45.5
+2026-11-18 00:18:44;pergunta;id jovem serve pra passagem de onibus?;10;sim;sim;1;20.9
+2026-11-18 00:18:59;pergunta;minha empresa nao pagou o fgts o que eu faço;;nao;nao;1;14.7
+2026-11-18 00:19:26;categoria;Documentos > Carteira de Identidade Nacional (CIN, o novo RG);2;sim;sim;1;24.9
+2026-11-18 06:51:51;pergunta;como tirar meu primeiro titulo de eleitor?;3;sim;sim;1;73.6
+2026-11-18 06:53:21;pergunta;preciso do cadastro unico para tirar a id jovem;10;sim;sim;1;89.9
+2026-11-18 06:54:05;pergunta;como pedir seguro desemprego?;;nao;nao;1;43.9
+2026-11-18 06:57:46;pergunta;s;;nao;nao;5;132.6
+2026-11-18 07:00:36;pergunta;preciso de carteira assinada;;nao;nao;1;31.7
+2026-11-18 07:05:26;pergunta;preciso de carteira assinada;5;sim;sim;1;51.8
